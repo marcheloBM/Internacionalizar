@@ -1,6 +1,6 @@
 package com.example.marchelo.internacionalizar;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Verificar actualización al iniciar
+        UpdateChecker.checkForUpdate(this);
 
         // Recupera un String desde el código
         String idiomaPorDefecto = getString(R.string.idiomaPorDefecto);
