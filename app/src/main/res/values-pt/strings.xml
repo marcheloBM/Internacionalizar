@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalizar</string>
+    <string name="textoIncio">BEM-VINDO</string>
+    <string name="nombre">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="valor">Valor</string>
+    <string name="stock">Estoque</string>
+    <string name="insertar">Inserir</string>
+    <string name="volver">Retorno</string>
+    <string name="idiomaPorDefecto">Portugues</string>
+</resources>

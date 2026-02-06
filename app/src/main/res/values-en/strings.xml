@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internationalize</string>
+    <string name="textoIncio">YOUR WELCOME</string>
+    <string name="nombre">first Name</string>
+    <string name="tipo">Kind</string>
+    <string name="valor">Value</string>
+    <string name="stock">Stock</string>
+    <string name="insertar">Insert</string>
+    <string name="volver">return</string>
+    <string name="idiomaPorDefecto">Ingles</string>
+</resources>

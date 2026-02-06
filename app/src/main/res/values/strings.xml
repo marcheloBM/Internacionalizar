@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Internacionalizar</string>
+    <string name="textoIncio">BIENVENIDO</string>
+    <string name="nombre">Nombre</string>
+    <string name="tipo">Tipo</string>
+    <string name="valor">Valor</string>
+    <string name="stock">Stock</string>
+    <string name="insertar">Insertar</string>
+    <string name="volver">Volver</string>
+    <string name="idiomaPorDefecto">Español</string>
+</resources>
